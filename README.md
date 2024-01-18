@@ -1,12 +1,18 @@
-# Nuxt 3 Minimal Starter
+# Nuxt 3 Quick Start Web Application
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+### With Dependencies have been configured:
+- @nuxtjs/tailwindcss
+- nuxt-icon, 
+- @nuxtjs/color-mode
 
 ## Setup
 
 Make sure to install the dependencies:
 
 ```bash
+git clone git@github.com:meccado/quickstart-nuxt3-webapp-template.git [your_name]
+cd [your_name]
+
 # npm
 npm install
 
@@ -71,5 +77,3 @@ yarn preview
 # bun
 bun run preview
 ```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
